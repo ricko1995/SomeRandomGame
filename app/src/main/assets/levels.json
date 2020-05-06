@@ -1,0 +1,2162 @@
+[
+  {
+    "levelNumber": 1,
+    "containersInRow": 2,
+    "numberOfContainers": 2,
+    "score": 3
+  },
+  {
+    "levelNumber": 2,
+    "containersInRow": 2,
+    "numberOfContainers": 3,
+    "score": 5
+  },
+  {
+    "levelNumber": 3,
+    "containersInRow": 3,
+    "numberOfContainers": 3,
+    "score": 6
+  },
+  {
+    "levelNumber": 4,
+    "containersInRow": 2,
+    "numberOfContainers": 4,
+    "score": 6
+  },
+  {
+    "levelNumber": 5,
+    "containersInRow": 2,
+    "numberOfContainers": 5,
+    "score": 8
+  },
+  {
+    "levelNumber": 6,
+    "containersInRow": 3,
+    "numberOfContainers": 4,
+    "score": 9
+  },
+  {
+    "levelNumber": 7,
+    "containersInRow": 2,
+    "numberOfContainers": 6,
+    "score": 9
+  },
+  {
+    "levelNumber": 8,
+    "containersInRow": 4,
+    "numberOfContainers": 4,
+    "score": 10
+  },
+  {
+    "levelNumber": 9,
+    "containersInRow": 3,
+    "numberOfContainers": 5,
+    "score": 11
+  },
+  {
+    "levelNumber": 10,
+    "containersInRow": 2,
+    "numberOfContainers": 7,
+    "score": 11
+  },
+  {
+    "levelNumber": 11,
+    "containersInRow": 3,
+    "numberOfContainers": 6,
+    "score": 12
+  },
+  {
+    "levelNumber": 12,
+    "containersInRow": 2,
+    "numberOfContainers": 8,
+    "score": 12
+  },
+  {
+    "levelNumber": 13,
+    "containersInRow": 4,
+    "numberOfContainers": 5,
+    "score": 14
+  },
+  {
+    "levelNumber": 14,
+    "containersInRow": 2,
+    "numberOfContainers": 9,
+    "score": 14
+  },
+  {
+    "levelNumber": 15,
+    "containersInRow": 5,
+    "numberOfContainers": 5,
+    "score": 15
+  },
+  {
+    "levelNumber": 16,
+    "containersInRow": 3,
+    "numberOfContainers": 7,
+    "score": 15
+  },
+  {
+    "levelNumber": 17,
+    "containersInRow": 2,
+    "numberOfContainers": 10,
+    "score": 15
+  },
+  {
+    "levelNumber": 18,
+    "containersInRow": 4,
+    "numberOfContainers": 6,
+    "score": 17
+  },
+  {
+    "levelNumber": 19,
+    "containersInRow": 3,
+    "numberOfContainers": 8,
+    "score": 17
+  },
+  {
+    "levelNumber": 20,
+    "containersInRow": 2,
+    "numberOfContainers": 11,
+    "score": 17
+  },
+  {
+    "levelNumber": 21,
+    "containersInRow": 3,
+    "numberOfContainers": 9,
+    "score": 18
+  },
+  {
+    "levelNumber": 22,
+    "containersInRow": 2,
+    "numberOfContainers": 12,
+    "score": 18
+  },
+  {
+    "levelNumber": 23,
+    "containersInRow": 4,
+    "numberOfContainers": 7,
+    "score": 19
+  },
+  {
+    "levelNumber": 24,
+    "containersInRow": 5,
+    "numberOfContainers": 6,
+    "score": 20
+  },
+  {
+    "levelNumber": 25,
+    "containersInRow": 4,
+    "numberOfContainers": 8,
+    "score": 20
+  },
+  {
+    "levelNumber": 26,
+    "containersInRow": 2,
+    "numberOfContainers": 13,
+    "score": 20
+  },
+  {
+    "levelNumber": 27,
+    "containersInRow": 6,
+    "numberOfContainers": 6,
+    "score": 21
+  },
+  {
+    "levelNumber": 28,
+    "containersInRow": 3,
+    "numberOfContainers": 10,
+    "score": 21
+  },
+  {
+    "levelNumber": 29,
+    "containersInRow": 2,
+    "numberOfContainers": 14,
+    "score": 21
+  },
+  {
+    "levelNumber": 30,
+    "containersInRow": 3,
+    "numberOfContainers": 11,
+    "score": 23
+  },
+  {
+    "levelNumber": 31,
+    "containersInRow": 2,
+    "numberOfContainers": 15,
+    "score": 23
+  },
+  {
+    "levelNumber": 32,
+    "containersInRow": 5,
+    "numberOfContainers": 7,
+    "score": 24
+  },
+  {
+    "levelNumber": 33,
+    "containersInRow": 4,
+    "numberOfContainers": 9,
+    "score": 24
+  },
+  {
+    "levelNumber": 34,
+    "containersInRow": 3,
+    "numberOfContainers": 12,
+    "score": 24
+  },
+  {
+    "levelNumber": 35,
+    "containersInRow": 2,
+    "numberOfContainers": 16,
+    "score": 24
+  },
+  {
+    "levelNumber": 36,
+    "containersInRow": 2,
+    "numberOfContainers": 17,
+    "score": 26
+  },
+  {
+    "levelNumber": 37,
+    "containersInRow": 6,
+    "numberOfContainers": 7,
+    "score": 27
+  },
+  {
+    "levelNumber": 38,
+    "containersInRow": 5,
+    "numberOfContainers": 8,
+    "score": 27
+  },
+  {
+    "levelNumber": 39,
+    "containersInRow": 4,
+    "numberOfContainers": 10,
+    "score": 27
+  },
+  {
+    "levelNumber": 40,
+    "containersInRow": 3,
+    "numberOfContainers": 13,
+    "score": 27
+  },
+  {
+    "levelNumber": 41,
+    "containersInRow": 2,
+    "numberOfContainers": 18,
+    "score": 27
+  },
+  {
+    "levelNumber": 42,
+    "containersInRow": 7,
+    "numberOfContainers": 7,
+    "score": 28
+  },
+  {
+    "levelNumber": 43,
+    "containersInRow": 5,
+    "numberOfContainers": 9,
+    "score": 29
+  },
+  {
+    "levelNumber": 44,
+    "containersInRow": 4,
+    "numberOfContainers": 11,
+    "score": 29
+  },
+  {
+    "levelNumber": 45,
+    "containersInRow": 3,
+    "numberOfContainers": 14,
+    "score": 29
+  },
+  {
+    "levelNumber": 46,
+    "containersInRow": 5,
+    "numberOfContainers": 10,
+    "score": 30
+  },
+  {
+    "levelNumber": 47,
+    "containersInRow": 4,
+    "numberOfContainers": 12,
+    "score": 30
+  },
+  {
+    "levelNumber": 48,
+    "containersInRow": 3,
+    "numberOfContainers": 15,
+    "score": 30
+  },
+  {
+    "levelNumber": 49,
+    "containersInRow": 6,
+    "numberOfContainers": 8,
+    "score": 32
+  },
+  {
+    "levelNumber": 50,
+    "containersInRow": 3,
+    "numberOfContainers": 16,
+    "score": 33
+  },
+  {
+    "levelNumber": 51,
+    "containersInRow": 4,
+    "numberOfContainers": 13,
+    "score": 34
+  },
+  {
+    "levelNumber": 52,
+    "containersInRow": 7,
+    "numberOfContainers": 8,
+    "score": 35
+  },
+  {
+    "levelNumber": 53,
+    "containersInRow": 5,
+    "numberOfContainers": 11,
+    "score": 35
+  },
+  {
+    "levelNumber": 54,
+    "containersInRow": 3,
+    "numberOfContainers": 17,
+    "score": 35
+  },
+  {
+    "levelNumber": 55,
+    "containersInRow": 6,
+    "numberOfContainers": 9,
+    "score": 36
+  },
+  {
+    "levelNumber": 56,
+    "containersInRow": 8,
+    "numberOfContainers": 8,
+    "score": 36
+  },
+  {
+    "levelNumber": 57,
+    "containersInRow": 3,
+    "numberOfContainers": 18,
+    "score": 36
+  },
+  {
+    "levelNumber": 58,
+    "containersInRow": 4,
+    "numberOfContainers": 14,
+    "score": 37
+  },
+  {
+    "levelNumber": 59,
+    "containersInRow": 6,
+    "numberOfContainers": 10,
+    "score": 39
+  },
+  {
+    "levelNumber": 60,
+    "containersInRow": 5,
+    "numberOfContainers": 12,
+    "score": 39
+  },
+  {
+    "levelNumber": 61,
+    "containersInRow": 4,
+    "numberOfContainers": 15,
+    "score": 39
+  },
+  {
+    "levelNumber": 62,
+    "containersInRow": 3,
+    "numberOfContainers": 19,
+    "score": 39
+  },
+  {
+    "levelNumber": 63,
+    "containersInRow": 4,
+    "numberOfContainers": 16,
+    "score": 40
+  },
+  {
+    "levelNumber": 64,
+    "containersInRow": 7,
+    "numberOfContainers": 9,
+    "score": 41
+  },
+  {
+    "levelNumber": 65,
+    "containersInRow": 6,
+    "numberOfContainers": 11,
+    "score": 41
+  },
+  {
+    "levelNumber": 66,
+    "containersInRow": 3,
+    "numberOfContainers": 20,
+    "score": 41
+  },
+  {
+    "levelNumber": 67,
+    "containersInRow": 6,
+    "numberOfContainers": 12,
+    "score": 42
+  },
+  {
+    "levelNumber": 68,
+    "containersInRow": 5,
+    "numberOfContainers": 13,
+    "score": 42
+  },
+  {
+    "levelNumber": 69,
+    "containersInRow": 3,
+    "numberOfContainers": 21,
+    "score": 42
+  },
+  {
+    "levelNumber": 70,
+    "containersInRow": 8,
+    "numberOfContainers": 9,
+    "score": 44
+  },
+  {
+    "levelNumber": 71,
+    "containersInRow": 5,
+    "numberOfContainers": 14,
+    "score": 44
+  },
+  {
+    "levelNumber": 72,
+    "containersInRow": 4,
+    "numberOfContainers": 17,
+    "score": 44
+  },
+  {
+    "levelNumber": 73,
+    "containersInRow": 9,
+    "numberOfContainers": 9,
+    "score": 45
+  },
+  {
+    "levelNumber": 74,
+    "containersInRow": 5,
+    "numberOfContainers": 15,
+    "score": 45
+  },
+  {
+    "levelNumber": 75,
+    "containersInRow": 3,
+    "numberOfContainers": 22,
+    "score": 45
+  },
+  {
+    "levelNumber": 76,
+    "containersInRow": 7,
+    "numberOfContainers": 10,
+    "score": 46
+  },
+  {
+    "levelNumber": 77,
+    "containersInRow": 4,
+    "numberOfContainers": 18,
+    "score": 47
+  },
+  {
+    "levelNumber": 78,
+    "containersInRow": 3,
+    "numberOfContainers": 23,
+    "score": 47
+  },
+  {
+    "levelNumber": 79,
+    "containersInRow": 6,
+    "numberOfContainers": 13,
+    "score": 48
+  },
+  {
+    "levelNumber": 80,
+    "containersInRow": 3,
+    "numberOfContainers": 24,
+    "score": 48
+  },
+  {
+    "levelNumber": 81,
+    "containersInRow": 4,
+    "numberOfContainers": 19,
+    "score": 49
+  },
+  {
+    "levelNumber": 82,
+    "containersInRow": 7,
+    "numberOfContainers": 11,
+    "score": 50
+  },
+  {
+    "levelNumber": 83,
+    "containersInRow": 5,
+    "numberOfContainers": 16,
+    "score": 50
+  },
+  {
+    "levelNumber": 84,
+    "containersInRow": 4,
+    "numberOfContainers": 20,
+    "score": 50
+  },
+  {
+    "levelNumber": 85,
+    "containersInRow": 8,
+    "numberOfContainers": 10,
+    "score": 51
+  },
+  {
+    "levelNumber": 86,
+    "containersInRow": 3,
+    "numberOfContainers": 25,
+    "score": 51
+  },
+  {
+    "levelNumber": 87,
+    "containersInRow": 7,
+    "numberOfContainers": 12,
+    "score": 53
+  },
+  {
+    "levelNumber": 88,
+    "containersInRow": 6,
+    "numberOfContainers": 14,
+    "score": 53
+  },
+  {
+    "levelNumber": 89,
+    "containersInRow": 3,
+    "numberOfContainers": 26,
+    "score": 53
+  },
+  {
+    "levelNumber": 90,
+    "containersInRow": 9,
+    "numberOfContainers": 10,
+    "score": 54
+  },
+  {
+    "levelNumber": 91,
+    "containersInRow": 5,
+    "numberOfContainers": 17,
+    "score": 54
+  },
+  {
+    "levelNumber": 92,
+    "containersInRow": 4,
+    "numberOfContainers": 21,
+    "score": 54
+  },
+  {
+    "levelNumber": 93,
+    "containersInRow": 3,
+    "numberOfContainers": 27,
+    "score": 54
+  },
+  {
+    "levelNumber": 94,
+    "containersInRow": 7,
+    "numberOfContainers": 13,
+    "score": 55
+  },
+  {
+    "levelNumber": 95,
+    "containersInRow": 7,
+    "numberOfContainers": 14,
+    "score": 56
+  },
+  {
+    "levelNumber": 96,
+    "containersInRow": 8,
+    "numberOfContainers": 11,
+    "score": 57
+  },
+  {
+    "levelNumber": 97,
+    "containersInRow": 6,
+    "numberOfContainers": 15,
+    "score": 57
+  },
+  {
+    "levelNumber": 98,
+    "containersInRow": 5,
+    "numberOfContainers": 18,
+    "score": 57
+  },
+  {
+    "levelNumber": 99,
+    "containersInRow": 4,
+    "numberOfContainers": 22,
+    "score": 57
+  },
+  {
+    "levelNumber": 100,
+    "containersInRow": 5,
+    "numberOfContainers": 19,
+    "score": 59
+  },
+  {
+    "levelNumber": 101,
+    "containersInRow": 4,
+    "numberOfContainers": 23,
+    "score": 59
+  },
+  {
+    "levelNumber": 102,
+    "containersInRow": 6,
+    "numberOfContainers": 16,
+    "score": 60
+  },
+  {
+    "levelNumber": 103,
+    "containersInRow": 5,
+    "numberOfContainers": 20,
+    "score": 60
+  },
+  {
+    "levelNumber": 104,
+    "containersInRow": 4,
+    "numberOfContainers": 24,
+    "score": 60
+  },
+  {
+    "levelNumber": 105,
+    "containersInRow": 9,
+    "numberOfContainers": 11,
+    "score": 62
+  },
+  {
+    "levelNumber": 106,
+    "containersInRow": 8,
+    "numberOfContainers": 12,
+    "score": 62
+  },
+  {
+    "levelNumber": 107,
+    "containersInRow": 6,
+    "numberOfContainers": 17,
+    "score": 62
+  },
+  {
+    "levelNumber": 108,
+    "containersInRow": 7,
+    "numberOfContainers": 15,
+    "score": 63
+  },
+  {
+    "levelNumber": 109,
+    "containersInRow": 6,
+    "numberOfContainers": 18,
+    "score": 63
+  },
+  {
+    "levelNumber": 110,
+    "containersInRow": 4,
+    "numberOfContainers": 25,
+    "score": 64
+  },
+  {
+    "levelNumber": 111,
+    "containersInRow": 5,
+    "numberOfContainers": 21,
+    "score": 65
+  },
+  {
+    "levelNumber": 112,
+    "containersInRow": 8,
+    "numberOfContainers": 13,
+    "score": 66
+  },
+  {
+    "levelNumber": 113,
+    "containersInRow": 4,
+    "numberOfContainers": 26,
+    "score": 67
+  },
+  {
+    "levelNumber": 114,
+    "containersInRow": 9,
+    "numberOfContainers": 12,
+    "score": 69
+  },
+  {
+    "levelNumber": 115,
+    "containersInRow": 8,
+    "numberOfContainers": 14,
+    "score": 69
+  },
+  {
+    "levelNumber": 116,
+    "containersInRow": 7,
+    "numberOfContainers": 16,
+    "score": 69
+  },
+  {
+    "levelNumber": 117,
+    "containersInRow": 6,
+    "numberOfContainers": 19,
+    "score": 69
+  },
+  {
+    "levelNumber": 118,
+    "containersInRow": 5,
+    "numberOfContainers": 22,
+    "score": 69
+  },
+  {
+    "levelNumber": 119,
+    "containersInRow": 4,
+    "numberOfContainers": 27,
+    "score": 69
+  },
+  {
+    "levelNumber": 120,
+    "containersInRow": 4,
+    "numberOfContainers": 28,
+    "score": 70
+  },
+  {
+    "levelNumber": 121,
+    "containersInRow": 8,
+    "numberOfContainers": 15,
+    "score": 71
+  },
+  {
+    "levelNumber": 122,
+    "containersInRow": 8,
+    "numberOfContainers": 16,
+    "score": 72
+  },
+  {
+    "levelNumber": 123,
+    "containersInRow": 5,
+    "numberOfContainers": 23,
+    "score": 72
+  },
+  {
+    "levelNumber": 124,
+    "containersInRow": 7,
+    "numberOfContainers": 17,
+    "score": 74
+  },
+  {
+    "levelNumber": 125,
+    "containersInRow": 6,
+    "numberOfContainers": 20,
+    "score": 74
+  },
+  {
+    "levelNumber": 126,
+    "containersInRow": 5,
+    "numberOfContainers": 24,
+    "score": 74
+  },
+  {
+    "levelNumber": 127,
+    "containersInRow": 4,
+    "numberOfContainers": 29,
+    "score": 74
+  },
+  {
+    "levelNumber": 128,
+    "containersInRow": 9,
+    "numberOfContainers": 13,
+    "score": 75
+  },
+  {
+    "levelNumber": 129,
+    "containersInRow": 5,
+    "numberOfContainers": 25,
+    "score": 75
+  },
+  {
+    "levelNumber": 130,
+    "containersInRow": 4,
+    "numberOfContainers": 30,
+    "score": 77
+  },
+  {
+    "levelNumber": 131,
+    "containersInRow": 7,
+    "numberOfContainers": 18,
+    "score": 78
+  },
+  {
+    "levelNumber": 132,
+    "containersInRow": 6,
+    "numberOfContainers": 21,
+    "score": 78
+  },
+  {
+    "levelNumber": 133,
+    "containersInRow": 4,
+    "numberOfContainers": 31,
+    "score": 79
+  },
+  {
+    "levelNumber": 134,
+    "containersInRow": 9,
+    "numberOfContainers": 14,
+    "score": 80
+  },
+  {
+    "levelNumber": 135,
+    "containersInRow": 8,
+    "numberOfContainers": 17,
+    "score": 80
+  },
+  {
+    "levelNumber": 136,
+    "containersInRow": 5,
+    "numberOfContainers": 26,
+    "score": 80
+  },
+  {
+    "levelNumber": 137,
+    "containersInRow": 4,
+    "numberOfContainers": 32,
+    "score": 80
+  },
+  {
+    "levelNumber": 138,
+    "containersInRow": 7,
+    "numberOfContainers": 19,
+    "score": 81
+  },
+  {
+    "levelNumber": 139,
+    "containersInRow": 6,
+    "numberOfContainers": 22,
+    "score": 81
+  },
+  {
+    "levelNumber": 140,
+    "containersInRow": 7,
+    "numberOfContainers": 20,
+    "score": 83
+  },
+  {
+    "levelNumber": 141,
+    "containersInRow": 6,
+    "numberOfContainers": 23,
+    "score": 83
+  },
+  {
+    "levelNumber": 142,
+    "containersInRow": 9,
+    "numberOfContainers": 15,
+    "score": 84
+  },
+  {
+    "levelNumber": 143,
+    "containersInRow": 7,
+    "numberOfContainers": 21,
+    "score": 84
+  },
+  {
+    "levelNumber": 144,
+    "containersInRow": 6,
+    "numberOfContainers": 24,
+    "score": 84
+  },
+  {
+    "levelNumber": 145,
+    "containersInRow": 5,
+    "numberOfContainers": 27,
+    "score": 84
+  },
+  {
+    "levelNumber": 146,
+    "containersInRow": 4,
+    "numberOfContainers": 33,
+    "score": 84
+  },
+  {
+    "levelNumber": 147,
+    "containersInRow": 9,
+    "numberOfContainers": 16,
+    "score": 87
+  },
+  {
+    "levelNumber": 148,
+    "containersInRow": 8,
+    "numberOfContainers": 18,
+    "score": 87
+  },
+  {
+    "levelNumber": 149,
+    "containersInRow": 5,
+    "numberOfContainers": 28,
+    "score": 87
+  },
+  {
+    "levelNumber": 150,
+    "containersInRow": 4,
+    "numberOfContainers": 34,
+    "score": 87
+  },
+  {
+    "levelNumber": 151,
+    "containersInRow": 9,
+    "numberOfContainers": 17,
+    "score": 89
+  },
+  {
+    "levelNumber": 152,
+    "containersInRow": 5,
+    "numberOfContainers": 29,
+    "score": 89
+  },
+  {
+    "levelNumber": 153,
+    "containersInRow": 4,
+    "numberOfContainers": 35,
+    "score": 89
+  },
+  {
+    "levelNumber": 154,
+    "containersInRow": 9,
+    "numberOfContainers": 18,
+    "score": 90
+  },
+  {
+    "levelNumber": 155,
+    "containersInRow": 6,
+    "numberOfContainers": 25,
+    "score": 90
+  },
+  {
+    "levelNumber": 156,
+    "containersInRow": 5,
+    "numberOfContainers": 30,
+    "score": 90
+  },
+  {
+    "levelNumber": 157,
+    "containersInRow": 4,
+    "numberOfContainers": 36,
+    "score": 90
+  },
+  {
+    "levelNumber": 158,
+    "containersInRow": 7,
+    "numberOfContainers": 22,
+    "score": 91
+  },
+  {
+    "levelNumber": 159,
+    "containersInRow": 8,
+    "numberOfContainers": 19,
+    "score": 93
+  },
+  {
+    "levelNumber": 160,
+    "containersInRow": 6,
+    "numberOfContainers": 26,
+    "score": 95
+  },
+  {
+    "levelNumber": 161,
+    "containersInRow": 5,
+    "numberOfContainers": 31,
+    "score": 95
+  },
+  {
+    "levelNumber": 162,
+    "containersInRow": 7,
+    "numberOfContainers": 23,
+    "score": 97
+  },
+  {
+    "levelNumber": 163,
+    "containersInRow": 8,
+    "numberOfContainers": 20,
+    "score": 98
+  },
+  {
+    "levelNumber": 164,
+    "containersInRow": 9,
+    "numberOfContainers": 19,
+    "score": 99
+  },
+  {
+    "levelNumber": 165,
+    "containersInRow": 6,
+    "numberOfContainers": 27,
+    "score": 99
+  },
+  {
+    "levelNumber": 166,
+    "containersInRow": 5,
+    "numberOfContainers": 32,
+    "score": 99
+  },
+  {
+    "levelNumber": 167,
+    "containersInRow": 8,
+    "numberOfContainers": 21,
+    "score": 102
+  },
+  {
+    "levelNumber": 168,
+    "containersInRow": 7,
+    "numberOfContainers": 24,
+    "score": 102
+  },
+  {
+    "levelNumber": 169,
+    "containersInRow": 6,
+    "numberOfContainers": 28,
+    "score": 102
+  },
+  {
+    "levelNumber": 170,
+    "containersInRow": 5,
+    "numberOfContainers": 33,
+    "score": 102
+  },
+  {
+    "levelNumber": 171,
+    "containersInRow": 6,
+    "numberOfContainers": 29,
+    "score": 104
+  },
+  {
+    "levelNumber": 172,
+    "containersInRow": 5,
+    "numberOfContainers": 34,
+    "score": 104
+  },
+  {
+    "levelNumber": 173,
+    "containersInRow": 8,
+    "numberOfContainers": 22,
+    "score": 105
+  },
+  {
+    "levelNumber": 174,
+    "containersInRow": 6,
+    "numberOfContainers": 30,
+    "score": 105
+  },
+  {
+    "levelNumber": 175,
+    "containersInRow": 5,
+    "numberOfContainers": 35,
+    "score": 105
+  },
+  {
+    "levelNumber": 176,
+    "containersInRow": 7,
+    "numberOfContainers": 25,
+    "score": 106
+  },
+  {
+    "levelNumber": 177,
+    "containersInRow": 9,
+    "numberOfContainers": 20,
+    "score": 107
+  },
+  {
+    "levelNumber": 178,
+    "containersInRow": 8,
+    "numberOfContainers": 23,
+    "score": 107
+  },
+  {
+    "levelNumber": 179,
+    "containersInRow": 8,
+    "numberOfContainers": 24,
+    "score": 108
+  },
+  {
+    "levelNumber": 180,
+    "containersInRow": 7,
+    "numberOfContainers": 26,
+    "score": 109
+  },
+  {
+    "levelNumber": 181,
+    "containersInRow": 5,
+    "numberOfContainers": 36,
+    "score": 110
+  },
+  {
+    "levelNumber": 182,
+    "containersInRow": 7,
+    "numberOfContainers": 27,
+    "score": 111
+  },
+  {
+    "levelNumber": 183,
+    "containersInRow": 6,
+    "numberOfContainers": 31,
+    "score": 111
+  },
+  {
+    "levelNumber": 184,
+    "containersInRow": 7,
+    "numberOfContainers": 28,
+    "score": 112
+  },
+  {
+    "levelNumber": 185,
+    "containersInRow": 9,
+    "numberOfContainers": 21,
+    "score": 114
+  },
+  {
+    "levelNumber": 186,
+    "containersInRow": 5,
+    "numberOfContainers": 37,
+    "score": 114
+  },
+  {
+    "levelNumber": 187,
+    "containersInRow": 8,
+    "numberOfContainers": 25,
+    "score": 116
+  },
+  {
+    "levelNumber": 188,
+    "containersInRow": 6,
+    "numberOfContainers": 32,
+    "score": 116
+  },
+  {
+    "levelNumber": 189,
+    "containersInRow": 5,
+    "numberOfContainers": 38,
+    "score": 117
+  },
+  {
+    "levelNumber": 190,
+    "containersInRow": 7,
+    "numberOfContainers": 29,
+    "score": 119
+  },
+  {
+    "levelNumber": 191,
+    "containersInRow": 5,
+    "numberOfContainers": 39,
+    "score": 119
+  },
+  {
+    "levelNumber": 192,
+    "containersInRow": 9,
+    "numberOfContainers": 22,
+    "score": 120
+  },
+  {
+    "levelNumber": 193,
+    "containersInRow": 6,
+    "numberOfContainers": 33,
+    "score": 120
+  },
+  {
+    "levelNumber": 194,
+    "containersInRow": 5,
+    "numberOfContainers": 40,
+    "score": 120
+  },
+  {
+    "levelNumber": 195,
+    "containersInRow": 8,
+    "numberOfContainers": 26,
+    "score": 123
+  },
+  {
+    "levelNumber": 196,
+    "containersInRow": 6,
+    "numberOfContainers": 34,
+    "score": 123
+  },
+  {
+    "levelNumber": 197,
+    "containersInRow": 9,
+    "numberOfContainers": 23,
+    "score": 125
+  },
+  {
+    "levelNumber": 198,
+    "containersInRow": 7,
+    "numberOfContainers": 30,
+    "score": 125
+  },
+  {
+    "levelNumber": 199,
+    "containersInRow": 6,
+    "numberOfContainers": 35,
+    "score": 125
+  },
+  {
+    "levelNumber": 200,
+    "containersInRow": 5,
+    "numberOfContainers": 41,
+    "score": 125
+  },
+  {
+    "levelNumber": 201,
+    "containersInRow": 6,
+    "numberOfContainers": 36,
+    "score": 126
+  },
+  {
+    "levelNumber": 202,
+    "containersInRow": 9,
+    "numberOfContainers": 24,
+    "score": 129
+  },
+  {
+    "levelNumber": 203,
+    "containersInRow": 8,
+    "numberOfContainers": 27,
+    "score": 129
+  },
+  {
+    "levelNumber": 204,
+    "containersInRow": 5,
+    "numberOfContainers": 42,
+    "score": 129
+  },
+  {
+    "levelNumber": 205,
+    "containersInRow": 7,
+    "numberOfContainers": 31,
+    "score": 130
+  },
+  {
+    "levelNumber": 206,
+    "containersInRow": 9,
+    "numberOfContainers": 25,
+    "score": 132
+  },
+  {
+    "levelNumber": 207,
+    "containersInRow": 6,
+    "numberOfContainers": 37,
+    "score": 132
+  },
+  {
+    "levelNumber": 208,
+    "containersInRow": 5,
+    "numberOfContainers": 43,
+    "score": 132
+  },
+  {
+    "levelNumber": 209,
+    "containersInRow": 9,
+    "numberOfContainers": 26,
+    "score": 134
+  },
+  {
+    "levelNumber": 210,
+    "containersInRow": 8,
+    "numberOfContainers": 28,
+    "score": 134
+  },
+  {
+    "levelNumber": 211,
+    "containersInRow": 7,
+    "numberOfContainers": 32,
+    "score": 134
+  },
+  {
+    "levelNumber": 212,
+    "containersInRow": 5,
+    "numberOfContainers": 44,
+    "score": 134
+  },
+  {
+    "levelNumber": 213,
+    "containersInRow": 9,
+    "numberOfContainers": 27,
+    "score": 135
+  },
+  {
+    "levelNumber": 214,
+    "containersInRow": 5,
+    "numberOfContainers": 45,
+    "score": 135
+  },
+  {
+    "levelNumber": 215,
+    "containersInRow": 7,
+    "numberOfContainers": 33,
+    "score": 137
+  },
+  {
+    "levelNumber": 216,
+    "containersInRow": 6,
+    "numberOfContainers": 38,
+    "score": 137
+  },
+  {
+    "levelNumber": 217,
+    "containersInRow": 8,
+    "numberOfContainers": 29,
+    "score": 138
+  },
+  {
+    "levelNumber": 218,
+    "containersInRow": 7,
+    "numberOfContainers": 34,
+    "score": 139
+  },
+  {
+    "levelNumber": 219,
+    "containersInRow": 7,
+    "numberOfContainers": 35,
+    "score": 140
+  },
+  {
+    "levelNumber": 220,
+    "containersInRow": 8,
+    "numberOfContainers": 30,
+    "score": 141
+  },
+  {
+    "levelNumber": 221,
+    "containersInRow": 6,
+    "numberOfContainers": 39,
+    "score": 141
+  },
+  {
+    "levelNumber": 222,
+    "containersInRow": 8,
+    "numberOfContainers": 31,
+    "score": 143
+  },
+  {
+    "levelNumber": 223,
+    "containersInRow": 9,
+    "numberOfContainers": 28,
+    "score": 144
+  },
+  {
+    "levelNumber": 224,
+    "containersInRow": 8,
+    "numberOfContainers": 32,
+    "score": 144
+  },
+  {
+    "levelNumber": 225,
+    "containersInRow": 6,
+    "numberOfContainers": 40,
+    "score": 144
+  },
+  {
+    "levelNumber": 226,
+    "containersInRow": 6,
+    "numberOfContainers": 41,
+    "score": 146
+  },
+  {
+    "levelNumber": 227,
+    "containersInRow": 7,
+    "numberOfContainers": 36,
+    "score": 147
+  },
+  {
+    "levelNumber": 228,
+    "containersInRow": 6,
+    "numberOfContainers": 42,
+    "score": 147
+  },
+  {
+    "levelNumber": 229,
+    "containersInRow": 9,
+    "numberOfContainers": 29,
+    "score": 152
+  },
+  {
+    "levelNumber": 230,
+    "containersInRow": 8,
+    "numberOfContainers": 33,
+    "score": 152
+  },
+  {
+    "levelNumber": 231,
+    "containersInRow": 7,
+    "numberOfContainers": 37,
+    "score": 153
+  },
+  {
+    "levelNumber": 232,
+    "containersInRow": 6,
+    "numberOfContainers": 43,
+    "score": 153
+  },
+  {
+    "levelNumber": 233,
+    "containersInRow": 7,
+    "numberOfContainers": 38,
+    "score": 158
+  },
+  {
+    "levelNumber": 234,
+    "containersInRow": 6,
+    "numberOfContainers": 44,
+    "score": 158
+  },
+  {
+    "levelNumber": 235,
+    "containersInRow": 9,
+    "numberOfContainers": 30,
+    "score": 159
+  },
+  {
+    "levelNumber": 236,
+    "containersInRow": 8,
+    "numberOfContainers": 34,
+    "score": 159
+  },
+  {
+    "levelNumber": 237,
+    "containersInRow": 7,
+    "numberOfContainers": 39,
+    "score": 162
+  },
+  {
+    "levelNumber": 238,
+    "containersInRow": 6,
+    "numberOfContainers": 45,
+    "score": 162
+  },
+  {
+    "levelNumber": 239,
+    "containersInRow": 9,
+    "numberOfContainers": 31,
+    "score": 165
+  },
+  {
+    "levelNumber": 240,
+    "containersInRow": 8,
+    "numberOfContainers": 35,
+    "score": 165
+  },
+  {
+    "levelNumber": 241,
+    "containersInRow": 7,
+    "numberOfContainers": 40,
+    "score": 165
+  },
+  {
+    "levelNumber": 242,
+    "containersInRow": 6,
+    "numberOfContainers": 46,
+    "score": 165
+  },
+  {
+    "levelNumber": 243,
+    "containersInRow": 7,
+    "numberOfContainers": 41,
+    "score": 167
+  },
+  {
+    "levelNumber": 244,
+    "containersInRow": 6,
+    "numberOfContainers": 47,
+    "score": 167
+  },
+  {
+    "levelNumber": 245,
+    "containersInRow": 7,
+    "numberOfContainers": 42,
+    "score": 168
+  },
+  {
+    "levelNumber": 246,
+    "containersInRow": 6,
+    "numberOfContainers": 48,
+    "score": 168
+  },
+  {
+    "levelNumber": 247,
+    "containersInRow": 9,
+    "numberOfContainers": 32,
+    "score": 170
+  },
+  {
+    "levelNumber": 248,
+    "containersInRow": 8,
+    "numberOfContainers": 36,
+    "score": 170
+  },
+  {
+    "levelNumber": 249,
+    "containersInRow": 9,
+    "numberOfContainers": 33,
+    "score": 174
+  },
+  {
+    "levelNumber": 250,
+    "containersInRow": 8,
+    "numberOfContainers": 37,
+    "score": 174
+  },
+  {
+    "levelNumber": 251,
+    "containersInRow": 6,
+    "numberOfContainers": 49,
+    "score": 174
+  },
+  {
+    "levelNumber": 252,
+    "containersInRow": 7,
+    "numberOfContainers": 43,
+    "score": 175
+  },
+  {
+    "levelNumber": 253,
+    "containersInRow": 9,
+    "numberOfContainers": 34,
+    "score": 177
+  },
+  {
+    "levelNumber": 254,
+    "containersInRow": 8,
+    "numberOfContainers": 38,
+    "score": 177
+  },
+  {
+    "levelNumber": 255,
+    "containersInRow": 9,
+    "numberOfContainers": 35,
+    "score": 179
+  },
+  {
+    "levelNumber": 256,
+    "containersInRow": 8,
+    "numberOfContainers": 39,
+    "score": 179
+  },
+  {
+    "levelNumber": 257,
+    "containersInRow": 6,
+    "numberOfContainers": 50,
+    "score": 179
+  },
+  {
+    "levelNumber": 258,
+    "containersInRow": 9,
+    "numberOfContainers": 36,
+    "score": 180
+  },
+  {
+    "levelNumber": 259,
+    "containersInRow": 8,
+    "numberOfContainers": 40,
+    "score": 180
+  },
+  {
+    "levelNumber": 260,
+    "containersInRow": 7,
+    "numberOfContainers": 44,
+    "score": 181
+  },
+  {
+    "levelNumber": 261,
+    "containersInRow": 6,
+    "numberOfContainers": 51,
+    "score": 183
+  },
+  {
+    "levelNumber": 262,
+    "containersInRow": 7,
+    "numberOfContainers": 45,
+    "score": 186
+  },
+  {
+    "levelNumber": 263,
+    "containersInRow": 6,
+    "numberOfContainers": 52,
+    "score": 186
+  },
+  {
+    "levelNumber": 264,
+    "containersInRow": 8,
+    "numberOfContainers": 41,
+    "score": 188
+  },
+  {
+    "levelNumber": 265,
+    "containersInRow": 6,
+    "numberOfContainers": 53,
+    "score": 188
+  },
+  {
+    "levelNumber": 266,
+    "containersInRow": 9,
+    "numberOfContainers": 37,
+    "score": 189
+  },
+  {
+    "levelNumber": 267,
+    "containersInRow": 6,
+    "numberOfContainers": 54,
+    "score": 189
+  },
+  {
+    "levelNumber": 268,
+    "containersInRow": 7,
+    "numberOfContainers": 46,
+    "score": 190
+  },
+  {
+    "levelNumber": 269,
+    "containersInRow": 7,
+    "numberOfContainers": 47,
+    "score": 193
+  },
+  {
+    "levelNumber": 270,
+    "containersInRow": 8,
+    "numberOfContainers": 42,
+    "score": 195
+  },
+  {
+    "levelNumber": 271,
+    "containersInRow": 7,
+    "numberOfContainers": 48,
+    "score": 195
+  },
+  {
+    "levelNumber": 272,
+    "containersInRow": 7,
+    "numberOfContainers": 49,
+    "score": 196
+  },
+  {
+    "levelNumber": 273,
+    "containersInRow": 9,
+    "numberOfContainers": 38,
+    "score": 197
+  },
+  {
+    "levelNumber": 274,
+    "containersInRow": 8,
+    "numberOfContainers": 43,
+    "score": 201
+  },
+  {
+    "levelNumber": 275,
+    "containersInRow": 7,
+    "numberOfContainers": 50,
+    "score": 203
+  },
+  {
+    "levelNumber": 276,
+    "containersInRow": 9,
+    "numberOfContainers": 39,
+    "score": 204
+  },
+  {
+    "levelNumber": 277,
+    "containersInRow": 8,
+    "numberOfContainers": 44,
+    "score": 206
+  },
+  {
+    "levelNumber": 278,
+    "containersInRow": 7,
+    "numberOfContainers": 51,
+    "score": 209
+  },
+  {
+    "levelNumber": 279,
+    "containersInRow": 9,
+    "numberOfContainers": 40,
+    "score": 210
+  },
+  {
+    "levelNumber": 280,
+    "containersInRow": 8,
+    "numberOfContainers": 45,
+    "score": 210
+  },
+  {
+    "levelNumber": 281,
+    "containersInRow": 8,
+    "numberOfContainers": 46,
+    "score": 213
+  },
+  {
+    "levelNumber": 282,
+    "containersInRow": 7,
+    "numberOfContainers": 52,
+    "score": 214
+  },
+  {
+    "levelNumber": 283,
+    "containersInRow": 9,
+    "numberOfContainers": 41,
+    "score": 215
+  },
+  {
+    "levelNumber": 284,
+    "containersInRow": 8,
+    "numberOfContainers": 47,
+    "score": 215
+  },
+  {
+    "levelNumber": 285,
+    "containersInRow": 8,
+    "numberOfContainers": 48,
+    "score": 216
+  },
+  {
+    "levelNumber": 286,
+    "containersInRow": 7,
+    "numberOfContainers": 53,
+    "score": 218
+  },
+  {
+    "levelNumber": 287,
+    "containersInRow": 9,
+    "numberOfContainers": 42,
+    "score": 219
+  },
+  {
+    "levelNumber": 288,
+    "containersInRow": 7,
+    "numberOfContainers": 54,
+    "score": 221
+  },
+  {
+    "levelNumber": 289,
+    "containersInRow": 9,
+    "numberOfContainers": 43,
+    "score": 222
+  },
+  {
+    "levelNumber": 290,
+    "containersInRow": 7,
+    "numberOfContainers": 55,
+    "score": 223
+  },
+  {
+    "levelNumber": 291,
+    "containersInRow": 9,
+    "numberOfContainers": 44,
+    "score": 224
+  },
+  {
+    "levelNumber": 292,
+    "containersInRow": 8,
+    "numberOfContainers": 49,
+    "score": 224
+  },
+  {
+    "levelNumber": 293,
+    "containersInRow": 7,
+    "numberOfContainers": 56,
+    "score": 224
+  },
+  {
+    "levelNumber": 294,
+    "containersInRow": 9,
+    "numberOfContainers": 45,
+    "score": 225
+  },
+  {
+    "levelNumber": 295,
+    "containersInRow": 8,
+    "numberOfContainers": 50,
+    "score": 231
+  },
+  {
+    "levelNumber": 296,
+    "containersInRow": 7,
+    "numberOfContainers": 57,
+    "score": 231
+  },
+  {
+    "levelNumber": 297,
+    "containersInRow": 9,
+    "numberOfContainers": 46,
+    "score": 234
+  },
+  {
+    "levelNumber": 298,
+    "containersInRow": 8,
+    "numberOfContainers": 51,
+    "score": 237
+  },
+  {
+    "levelNumber": 299,
+    "containersInRow": 7,
+    "numberOfContainers": 58,
+    "score": 237
+  },
+  {
+    "levelNumber": 300,
+    "containersInRow": 9,
+    "numberOfContainers": 47,
+    "score": 242
+  },
+  {
+    "levelNumber": 301,
+    "containersInRow": 8,
+    "numberOfContainers": 52,
+    "score": 242
+  },
+  {
+    "levelNumber": 302,
+    "containersInRow": 7,
+    "numberOfContainers": 59,
+    "score": 242
+  },
+  {
+    "levelNumber": 303,
+    "containersInRow": 8,
+    "numberOfContainers": 53,
+    "score": 246
+  },
+  {
+    "levelNumber": 304,
+    "containersInRow": 7,
+    "numberOfContainers": 60,
+    "score": 246
+  },
+  {
+    "levelNumber": 305,
+    "containersInRow": 9,
+    "numberOfContainers": 48,
+    "score": 249
+  },
+  {
+    "levelNumber": 306,
+    "containersInRow": 8,
+    "numberOfContainers": 54,
+    "score": 249
+  },
+  {
+    "levelNumber": 307,
+    "containersInRow": 7,
+    "numberOfContainers": 61,
+    "score": 249
+  },
+  {
+    "levelNumber": 308,
+    "containersInRow": 8,
+    "numberOfContainers": 55,
+    "score": 251
+  },
+  {
+    "levelNumber": 309,
+    "containersInRow": 7,
+    "numberOfContainers": 62,
+    "score": 251
+  },
+  {
+    "levelNumber": 310,
+    "containersInRow": 8,
+    "numberOfContainers": 56,
+    "score": 252
+  },
+  {
+    "levelNumber": 311,
+    "containersInRow": 7,
+    "numberOfContainers": 63,
+    "score": 252
+  },
+  {
+    "levelNumber": 312,
+    "containersInRow": 9,
+    "numberOfContainers": 49,
+    "score": 255
+  },
+  {
+    "levelNumber": 313,
+    "containersInRow": 9,
+    "numberOfContainers": 50,
+    "score": 260
+  },
+  {
+    "levelNumber": 314,
+    "containersInRow": 8,
+    "numberOfContainers": 57,
+    "score": 260
+  },
+  {
+    "levelNumber": 315,
+    "containersInRow": 9,
+    "numberOfContainers": 51,
+    "score": 264
+  },
+  {
+    "levelNumber": 316,
+    "containersInRow": 9,
+    "numberOfContainers": 52,
+    "score": 267
+  },
+  {
+    "levelNumber": 317,
+    "containersInRow": 8,
+    "numberOfContainers": 58,
+    "score": 267
+  },
+  {
+    "levelNumber": 318,
+    "containersInRow": 9,
+    "numberOfContainers": 53,
+    "score": 269
+  },
+  {
+    "levelNumber": 319,
+    "containersInRow": 9,
+    "numberOfContainers": 54,
+    "score": 270
+  },
+  {
+    "levelNumber": 320,
+    "containersInRow": 8,
+    "numberOfContainers": 59,
+    "score": 273
+  },
+  {
+    "levelNumber": 321,
+    "containersInRow": 8,
+    "numberOfContainers": 60,
+    "score": 278
+  },
+  {
+    "levelNumber": 322,
+    "containersInRow": 9,
+    "numberOfContainers": 55,
+    "score": 279
+  },
+  {
+    "levelNumber": 323,
+    "containersInRow": 8,
+    "numberOfContainers": 61,
+    "score": 282
+  },
+  {
+    "levelNumber": 324,
+    "containersInRow": 8,
+    "numberOfContainers": 62,
+    "score": 285
+  },
+  {
+    "levelNumber": 325,
+    "containersInRow": 9,
+    "numberOfContainers": 56,
+    "score": 287
+  },
+  {
+    "levelNumber": 326,
+    "containersInRow": 8,
+    "numberOfContainers": 63,
+    "score": 287
+  },
+  {
+    "levelNumber": 327,
+    "containersInRow": 8,
+    "numberOfContainers": 64,
+    "score": 288
+  },
+  {
+    "levelNumber": 328,
+    "containersInRow": 9,
+    "numberOfContainers": 57,
+    "score": 294
+  },
+  {
+    "levelNumber": 329,
+    "containersInRow": 8,
+    "numberOfContainers": 65,
+    "score": 296
+  },
+  {
+    "levelNumber": 330,
+    "containersInRow": 9,
+    "numberOfContainers": 58,
+    "score": 300
+  },
+  {
+    "levelNumber": 331,
+    "containersInRow": 8,
+    "numberOfContainers": 66,
+    "score": 303
+  },
+  {
+    "levelNumber": 332,
+    "containersInRow": 9,
+    "numberOfContainers": 59,
+    "score": 305
+  },
+  {
+    "levelNumber": 333,
+    "containersInRow": 9,
+    "numberOfContainers": 60,
+    "score": 309
+  },
+  {
+    "levelNumber": 334,
+    "containersInRow": 8,
+    "numberOfContainers": 67,
+    "score": 309
+  },
+  {
+    "levelNumber": 335,
+    "containersInRow": 9,
+    "numberOfContainers": 61,
+    "score": 312
+  },
+  {
+    "levelNumber": 336,
+    "containersInRow": 9,
+    "numberOfContainers": 62,
+    "score": 314
+  },
+  {
+    "levelNumber": 337,
+    "containersInRow": 8,
+    "numberOfContainers": 68,
+    "score": 314
+  },
+  {
+    "levelNumber": 338,
+    "containersInRow": 9,
+    "numberOfContainers": 63,
+    "score": 315
+  },
+  {
+    "levelNumber": 339,
+    "containersInRow": 8,
+    "numberOfContainers": 69,
+    "score": 318
+  },
+  {
+    "levelNumber": 340,
+    "containersInRow": 8,
+    "numberOfContainers": 70,
+    "score": 321
+  },
+  {
+    "levelNumber": 341,
+    "containersInRow": 8,
+    "numberOfContainers": 71,
+    "score": 323
+  },
+  {
+    "levelNumber": 342,
+    "containersInRow": 9,
+    "numberOfContainers": 64,
+    "score": 324
+  },
+  {
+    "levelNumber": 343,
+    "containersInRow": 8,
+    "numberOfContainers": 72,
+    "score": 324
+  },
+  {
+    "levelNumber": 344,
+    "containersInRow": 9,
+    "numberOfContainers": 65,
+    "score": 332
+  },
+  {
+    "levelNumber": 345,
+    "containersInRow": 9,
+    "numberOfContainers": 66,
+    "score": 339
+  },
+  {
+    "levelNumber": 346,
+    "containersInRow": 9,
+    "numberOfContainers": 67,
+    "score": 345
+  },
+  {
+    "levelNumber": 347,
+    "containersInRow": 9,
+    "numberOfContainers": 68,
+    "score": 350
+  },
+  {
+    "levelNumber": 348,
+    "containersInRow": 9,
+    "numberOfContainers": 69,
+    "score": 354
+  },
+  {
+    "levelNumber": 349,
+    "containersInRow": 9,
+    "numberOfContainers": 70,
+    "score": 357
+  },
+  {
+    "levelNumber": 350,
+    "containersInRow": 9,
+    "numberOfContainers": 71,
+    "score": 359
+  },
+  {
+    "levelNumber": 351,
+    "containersInRow": 9,
+    "numberOfContainers": 72,
+    "score": 360
+  },
+  {
+    "levelNumber": 352,
+    "containersInRow": 9,
+    "numberOfContainers": 73,
+    "score": 369
+  },
+  {
+    "levelNumber": 353,
+    "containersInRow": 9,
+    "numberOfContainers": 74,
+    "score": 377
+  },
+  {
+    "levelNumber": 354,
+    "containersInRow": 9,
+    "numberOfContainers": 75,
+    "score": 384
+  },
+  {
+    "levelNumber": 355,
+    "containersInRow": 9,
+    "numberOfContainers": 76,
+    "score": 390
+  },
+  {
+    "levelNumber": 356,
+    "containersInRow": 9,
+    "numberOfContainers": 77,
+    "score": 395
+  },
+  {
+    "levelNumber": 357,
+    "containersInRow": 9,
+    "numberOfContainers": 78,
+    "score": 399
+  },
+  {
+    "levelNumber": 358,
+    "containersInRow": 9,
+    "numberOfContainers": 79,
+    "score": 402
+  },
+  {
+    "levelNumber": 359,
+    "containersInRow": 9,
+    "numberOfContainers": 80,
+    "score": 404
+  },
+  {
+    "levelNumber": 360,
+    "containersInRow": 9,
+    "numberOfContainers": 81,
+    "score": 405
+  }
+]

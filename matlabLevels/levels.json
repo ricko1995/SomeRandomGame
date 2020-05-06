@@ -1,0 +1,1942 @@
+[
+ {
+   "levelNumber": 1,
+   "containersInRow": 2,
+   "numberOfContainers": 2
+ },
+ {
+   "levelNumber": 2,
+   "containersInRow": 3,
+   "numberOfContainers": 2
+ },
+ {
+   "levelNumber": 3,
+   "containersInRow": 2,
+   "numberOfContainers": 3
+ },
+ {
+   "levelNumber": 4,
+   "containersInRow": 4,
+   "numberOfContainers": 2
+ },
+ {
+   "levelNumber": 5,
+   "containersInRow": 3,
+   "numberOfContainers": 3
+ },
+ {
+   "levelNumber": 6,
+   "containersInRow": 2,
+   "numberOfContainers": 4
+ },
+ {
+   "levelNumber": 7,
+   "containersInRow": 5,
+   "numberOfContainers": 2
+ },
+ {
+   "levelNumber": 8,
+   "containersInRow": 4,
+   "numberOfContainers": 3
+ },
+ {
+   "levelNumber": 9,
+   "containersInRow": 3,
+   "numberOfContainers": 4
+ },
+ {
+   "levelNumber": 10,
+   "containersInRow": 2,
+   "numberOfContainers": 5
+ },
+ {
+   "levelNumber": 11,
+   "containersInRow": 6,
+   "numberOfContainers": 2
+ },
+ {
+   "levelNumber": 12,
+   "containersInRow": 5,
+   "numberOfContainers": 3
+ },
+ {
+   "levelNumber": 13,
+   "containersInRow": 4,
+   "numberOfContainers": 4
+ },
+ {
+   "levelNumber": 14,
+   "containersInRow": 3,
+   "numberOfContainers": 5
+ },
+ {
+   "levelNumber": 15,
+   "containersInRow": 2,
+   "numberOfContainers": 6
+ },
+ {
+   "levelNumber": 16,
+   "containersInRow": 7,
+   "numberOfContainers": 2
+ },
+ {
+   "levelNumber": 17,
+   "containersInRow": 6,
+   "numberOfContainers": 3
+ },
+ {
+   "levelNumber": 18,
+   "containersInRow": 5,
+   "numberOfContainers": 4
+ },
+ {
+   "levelNumber": 19,
+   "containersInRow": 4,
+   "numberOfContainers": 5
+ },
+ {
+   "levelNumber": 20,
+   "containersInRow": 3,
+   "numberOfContainers": 6
+ },
+ {
+   "levelNumber": 21,
+   "containersInRow": 2,
+   "numberOfContainers": 7
+ },
+ {
+   "levelNumber": 22,
+   "containersInRow": 8,
+   "numberOfContainers": 2
+ },
+ {
+   "levelNumber": 23,
+   "containersInRow": 7,
+   "numberOfContainers": 3
+ },
+ {
+   "levelNumber": 24,
+   "containersInRow": 6,
+   "numberOfContainers": 4
+ },
+ {
+   "levelNumber": 25,
+   "containersInRow": 5,
+   "numberOfContainers": 5
+ },
+ {
+   "levelNumber": 26,
+   "containersInRow": 4,
+   "numberOfContainers": 6
+ },
+ {
+   "levelNumber": 27,
+   "containersInRow": 3,
+   "numberOfContainers": 7
+ },
+ {
+   "levelNumber": 28,
+   "containersInRow": 2,
+   "numberOfContainers": 8
+ },
+ {
+   "levelNumber": 29,
+   "containersInRow": 9,
+   "numberOfContainers": 2
+ },
+ {
+   "levelNumber": 30,
+   "containersInRow": 8,
+   "numberOfContainers": 3
+ },
+ {
+   "levelNumber": 31,
+   "containersInRow": 7,
+   "numberOfContainers": 4
+ },
+ {
+   "levelNumber": 32,
+   "containersInRow": 6,
+   "numberOfContainers": 5
+ },
+ {
+   "levelNumber": 33,
+   "containersInRow": 5,
+   "numberOfContainers": 6
+ },
+ {
+   "levelNumber": 34,
+   "containersInRow": 4,
+   "numberOfContainers": 7
+ },
+ {
+   "levelNumber": 35,
+   "containersInRow": 3,
+   "numberOfContainers": 8
+ },
+ {
+   "levelNumber": 36,
+   "containersInRow": 2,
+   "numberOfContainers": 9
+ },
+ {
+   "levelNumber": 37,
+   "containersInRow": 9,
+   "numberOfContainers": 3
+ },
+ {
+   "levelNumber": 38,
+   "containersInRow": 8,
+   "numberOfContainers": 4
+ },
+ {
+   "levelNumber": 39,
+   "containersInRow": 7,
+   "numberOfContainers": 5
+ },
+ {
+   "levelNumber": 40,
+   "containersInRow": 6,
+   "numberOfContainers": 6
+ },
+ {
+   "levelNumber": 41,
+   "containersInRow": 5,
+   "numberOfContainers": 7
+ },
+ {
+   "levelNumber": 42,
+   "containersInRow": 4,
+   "numberOfContainers": 8
+ },
+ {
+   "levelNumber": 43,
+   "containersInRow": 3,
+   "numberOfContainers": 9
+ },
+ {
+   "levelNumber": 44,
+   "containersInRow": 2,
+   "numberOfContainers": 10
+ },
+ {
+   "levelNumber": 45,
+   "containersInRow": 9,
+   "numberOfContainers": 4
+ },
+ {
+   "levelNumber": 46,
+   "containersInRow": 8,
+   "numberOfContainers": 5
+ },
+ {
+   "levelNumber": 47,
+   "containersInRow": 7,
+   "numberOfContainers": 6
+ },
+ {
+   "levelNumber": 48,
+   "containersInRow": 6,
+   "numberOfContainers": 7
+ },
+ {
+   "levelNumber": 49,
+   "containersInRow": 5,
+   "numberOfContainers": 8
+ },
+ {
+   "levelNumber": 50,
+   "containersInRow": 4,
+   "numberOfContainers": 9
+ },
+ {
+   "levelNumber": 51,
+   "containersInRow": 3,
+   "numberOfContainers": 10
+ },
+ {
+   "levelNumber": 52,
+   "containersInRow": 2,
+   "numberOfContainers": 11
+ },
+ {
+   "levelNumber": 53,
+   "containersInRow": 9,
+   "numberOfContainers": 5
+ },
+ {
+   "levelNumber": 54,
+   "containersInRow": 8,
+   "numberOfContainers": 6
+ },
+ {
+   "levelNumber": 55,
+   "containersInRow": 7,
+   "numberOfContainers": 7
+ },
+ {
+   "levelNumber": 56,
+   "containersInRow": 6,
+   "numberOfContainers": 8
+ },
+ {
+   "levelNumber": 57,
+   "containersInRow": 5,
+   "numberOfContainers": 9
+ },
+ {
+   "levelNumber": 58,
+   "containersInRow": 4,
+   "numberOfContainers": 10
+ },
+ {
+   "levelNumber": 59,
+   "containersInRow": 3,
+   "numberOfContainers": 11
+ },
+ {
+   "levelNumber": 60,
+   "containersInRow": 2,
+   "numberOfContainers": 12
+ },
+ {
+   "levelNumber": 61,
+   "containersInRow": 9,
+   "numberOfContainers": 6
+ },
+ {
+   "levelNumber": 62,
+   "containersInRow": 8,
+   "numberOfContainers": 7
+ },
+ {
+   "levelNumber": 63,
+   "containersInRow": 7,
+   "numberOfContainers": 8
+ },
+ {
+   "levelNumber": 64,
+   "containersInRow": 6,
+   "numberOfContainers": 9
+ },
+ {
+   "levelNumber": 65,
+   "containersInRow": 5,
+   "numberOfContainers": 10
+ },
+ {
+   "levelNumber": 66,
+   "containersInRow": 4,
+   "numberOfContainers": 11
+ },
+ {
+   "levelNumber": 67,
+   "containersInRow": 3,
+   "numberOfContainers": 12
+ },
+ {
+   "levelNumber": 68,
+   "containersInRow": 2,
+   "numberOfContainers": 13
+ },
+ {
+   "levelNumber": 69,
+   "containersInRow": 9,
+   "numberOfContainers": 7
+ },
+ {
+   "levelNumber": 70,
+   "containersInRow": 8,
+   "numberOfContainers": 8
+ },
+ {
+   "levelNumber": 71,
+   "containersInRow": 7,
+   "numberOfContainers": 9
+ },
+ {
+   "levelNumber": 72,
+   "containersInRow": 6,
+   "numberOfContainers": 10
+ },
+ {
+   "levelNumber": 73,
+   "containersInRow": 5,
+   "numberOfContainers": 11
+ },
+ {
+   "levelNumber": 74,
+   "containersInRow": 4,
+   "numberOfContainers": 12
+ },
+ {
+   "levelNumber": 75,
+   "containersInRow": 3,
+   "numberOfContainers": 13
+ },
+ {
+   "levelNumber": 76,
+   "containersInRow": 2,
+   "numberOfContainers": 14
+ },
+ {
+   "levelNumber": 77,
+   "containersInRow": 9,
+   "numberOfContainers": 8
+ },
+ {
+   "levelNumber": 78,
+   "containersInRow": 8,
+   "numberOfContainers": 9
+ },
+ {
+   "levelNumber": 79,
+   "containersInRow": 7,
+   "numberOfContainers": 10
+ },
+ {
+   "levelNumber": 80,
+   "containersInRow": 6,
+   "numberOfContainers": 11
+ },
+ {
+   "levelNumber": 81,
+   "containersInRow": 5,
+   "numberOfContainers": 12
+ },
+ {
+   "levelNumber": 82,
+   "containersInRow": 4,
+   "numberOfContainers": 13
+ },
+ {
+   "levelNumber": 83,
+   "containersInRow": 3,
+   "numberOfContainers": 14
+ },
+ {
+   "levelNumber": 84,
+   "containersInRow": 2,
+   "numberOfContainers": 15
+ },
+ {
+   "levelNumber": 85,
+   "containersInRow": 9,
+   "numberOfContainers": 9
+ },
+ {
+   "levelNumber": 86,
+   "containersInRow": 8,
+   "numberOfContainers": 10
+ },
+ {
+   "levelNumber": 87,
+   "containersInRow": 7,
+   "numberOfContainers": 11
+ },
+ {
+   "levelNumber": 88,
+   "containersInRow": 6,
+   "numberOfContainers": 12
+ },
+ {
+   "levelNumber": 89,
+   "containersInRow": 5,
+   "numberOfContainers": 13
+ },
+ {
+   "levelNumber": 90,
+   "containersInRow": 4,
+   "numberOfContainers": 14
+ },
+ {
+   "levelNumber": 91,
+   "containersInRow": 3,
+   "numberOfContainers": 15
+ },
+ {
+   "levelNumber": 92,
+   "containersInRow": 2,
+   "numberOfContainers": 16
+ },
+ {
+   "levelNumber": 93,
+   "containersInRow": 9,
+   "numberOfContainers": 10
+ },
+ {
+   "levelNumber": 94,
+   "containersInRow": 8,
+   "numberOfContainers": 11
+ },
+ {
+   "levelNumber": 95,
+   "containersInRow": 7,
+   "numberOfContainers": 12
+ },
+ {
+   "levelNumber": 96,
+   "containersInRow": 6,
+   "numberOfContainers": 13
+ },
+ {
+   "levelNumber": 97,
+   "containersInRow": 5,
+   "numberOfContainers": 14
+ },
+ {
+   "levelNumber": 98,
+   "containersInRow": 4,
+   "numberOfContainers": 15
+ },
+ {
+   "levelNumber": 99,
+   "containersInRow": 3,
+   "numberOfContainers": 16
+ },
+ {
+   "levelNumber": 100,
+   "containersInRow": 2,
+   "numberOfContainers": 17
+ },
+ {
+   "levelNumber": 101,
+   "containersInRow": 9,
+   "numberOfContainers": 11
+ },
+ {
+   "levelNumber": 102,
+   "containersInRow": 8,
+   "numberOfContainers": 12
+ },
+ {
+   "levelNumber": 103,
+   "containersInRow": 7,
+   "numberOfContainers": 13
+ },
+ {
+   "levelNumber": 104,
+   "containersInRow": 6,
+   "numberOfContainers": 14
+ },
+ {
+   "levelNumber": 105,
+   "containersInRow": 5,
+   "numberOfContainers": 15
+ },
+ {
+   "levelNumber": 106,
+   "containersInRow": 4,
+   "numberOfContainers": 16
+ },
+ {
+   "levelNumber": 107,
+   "containersInRow": 3,
+   "numberOfContainers": 17
+ },
+ {
+   "levelNumber": 108,
+   "containersInRow": 2,
+   "numberOfContainers": 18
+ },
+ {
+   "levelNumber": 109,
+   "containersInRow": 9,
+   "numberOfContainers": 12
+ },
+ {
+   "levelNumber": 110,
+   "containersInRow": 8,
+   "numberOfContainers": 13
+ },
+ {
+   "levelNumber": 111,
+   "containersInRow": 7,
+   "numberOfContainers": 14
+ },
+ {
+   "levelNumber": 112,
+   "containersInRow": 6,
+   "numberOfContainers": 15
+ },
+ {
+   "levelNumber": 113,
+   "containersInRow": 5,
+   "numberOfContainers": 16
+ },
+ {
+   "levelNumber": 114,
+   "containersInRow": 4,
+   "numberOfContainers": 17
+ },
+ {
+   "levelNumber": 115,
+   "containersInRow": 3,
+   "numberOfContainers": 18
+ },
+ {
+   "levelNumber": 116,
+   "containersInRow": 9,
+   "numberOfContainers": 13
+ },
+ {
+   "levelNumber": 117,
+   "containersInRow": 8,
+   "numberOfContainers": 14
+ },
+ {
+   "levelNumber": 118,
+   "containersInRow": 7,
+   "numberOfContainers": 15
+ },
+ {
+   "levelNumber": 119,
+   "containersInRow": 6,
+   "numberOfContainers": 16
+ },
+ {
+   "levelNumber": 120,
+   "containersInRow": 5,
+   "numberOfContainers": 17
+ },
+ {
+   "levelNumber": 121,
+   "containersInRow": 4,
+   "numberOfContainers": 18
+ },
+ {
+   "levelNumber": 122,
+   "containersInRow": 3,
+   "numberOfContainers": 19
+ },
+ {
+   "levelNumber": 123,
+   "containersInRow": 9,
+   "numberOfContainers": 14
+ },
+ {
+   "levelNumber": 124,
+   "containersInRow": 8,
+   "numberOfContainers": 15
+ },
+ {
+   "levelNumber": 125,
+   "containersInRow": 7,
+   "numberOfContainers": 16
+ },
+ {
+   "levelNumber": 126,
+   "containersInRow": 6,
+   "numberOfContainers": 17
+ },
+ {
+   "levelNumber": 127,
+   "containersInRow": 5,
+   "numberOfContainers": 18
+ },
+ {
+   "levelNumber": 128,
+   "containersInRow": 4,
+   "numberOfContainers": 19
+ },
+ {
+   "levelNumber": 129,
+   "containersInRow": 3,
+   "numberOfContainers": 20
+ },
+ {
+   "levelNumber": 130,
+   "containersInRow": 9,
+   "numberOfContainers": 15
+ },
+ {
+   "levelNumber": 131,
+   "containersInRow": 8,
+   "numberOfContainers": 16
+ },
+ {
+   "levelNumber": 132,
+   "containersInRow": 7,
+   "numberOfContainers": 17
+ },
+ {
+   "levelNumber": 133,
+   "containersInRow": 6,
+   "numberOfContainers": 18
+ },
+ {
+   "levelNumber": 134,
+   "containersInRow": 5,
+   "numberOfContainers": 19
+ },
+ {
+   "levelNumber": 135,
+   "containersInRow": 4,
+   "numberOfContainers": 20
+ },
+ {
+   "levelNumber": 136,
+   "containersInRow": 3,
+   "numberOfContainers": 21
+ },
+ {
+   "levelNumber": 137,
+   "containersInRow": 9,
+   "numberOfContainers": 16
+ },
+ {
+   "levelNumber": 138,
+   "containersInRow": 8,
+   "numberOfContainers": 17
+ },
+ {
+   "levelNumber": 139,
+   "containersInRow": 7,
+   "numberOfContainers": 18
+ },
+ {
+   "levelNumber": 140,
+   "containersInRow": 6,
+   "numberOfContainers": 19
+ },
+ {
+   "levelNumber": 141,
+   "containersInRow": 5,
+   "numberOfContainers": 20
+ },
+ {
+   "levelNumber": 142,
+   "containersInRow": 4,
+   "numberOfContainers": 21
+ },
+ {
+   "levelNumber": 143,
+   "containersInRow": 3,
+   "numberOfContainers": 22
+ },
+ {
+   "levelNumber": 144,
+   "containersInRow": 9,
+   "numberOfContainers": 17
+ },
+ {
+   "levelNumber": 145,
+   "containersInRow": 8,
+   "numberOfContainers": 18
+ },
+ {
+   "levelNumber": 146,
+   "containersInRow": 7,
+   "numberOfContainers": 19
+ },
+ {
+   "levelNumber": 147,
+   "containersInRow": 6,
+   "numberOfContainers": 20
+ },
+ {
+   "levelNumber": 148,
+   "containersInRow": 5,
+   "numberOfContainers": 21
+ },
+ {
+   "levelNumber": 149,
+   "containersInRow": 4,
+   "numberOfContainers": 22
+ },
+ {
+   "levelNumber": 150,
+   "containersInRow": 3,
+   "numberOfContainers": 23
+ },
+ {
+   "levelNumber": 151,
+   "containersInRow": 9,
+   "numberOfContainers": 18
+ },
+ {
+   "levelNumber": 152,
+   "containersInRow": 8,
+   "numberOfContainers": 19
+ },
+ {
+   "levelNumber": 153,
+   "containersInRow": 7,
+   "numberOfContainers": 20
+ },
+ {
+   "levelNumber": 154,
+   "containersInRow": 6,
+   "numberOfContainers": 21
+ },
+ {
+   "levelNumber": 155,
+   "containersInRow": 5,
+   "numberOfContainers": 22
+ },
+ {
+   "levelNumber": 156,
+   "containersInRow": 4,
+   "numberOfContainers": 23
+ },
+ {
+   "levelNumber": 157,
+   "containersInRow": 3,
+   "numberOfContainers": 24
+ },
+ {
+   "levelNumber": 158,
+   "containersInRow": 9,
+   "numberOfContainers": 19
+ },
+ {
+   "levelNumber": 159,
+   "containersInRow": 8,
+   "numberOfContainers": 20
+ },
+ {
+   "levelNumber": 160,
+   "containersInRow": 7,
+   "numberOfContainers": 21
+ },
+ {
+   "levelNumber": 161,
+   "containersInRow": 6,
+   "numberOfContainers": 22
+ },
+ {
+   "levelNumber": 162,
+   "containersInRow": 5,
+   "numberOfContainers": 23
+ },
+ {
+   "levelNumber": 163,
+   "containersInRow": 4,
+   "numberOfContainers": 24
+ },
+ {
+   "levelNumber": 164,
+   "containersInRow": 3,
+   "numberOfContainers": 25
+ },
+ {
+   "levelNumber": 165,
+   "containersInRow": 9,
+   "numberOfContainers": 20
+ },
+ {
+   "levelNumber": 166,
+   "containersInRow": 8,
+   "numberOfContainers": 21
+ },
+ {
+   "levelNumber": 167,
+   "containersInRow": 7,
+   "numberOfContainers": 22
+ },
+ {
+   "levelNumber": 168,
+   "containersInRow": 6,
+   "numberOfContainers": 23
+ },
+ {
+   "levelNumber": 169,
+   "containersInRow": 5,
+   "numberOfContainers": 24
+ },
+ {
+   "levelNumber": 170,
+   "containersInRow": 4,
+   "numberOfContainers": 25
+ },
+ {
+   "levelNumber": 171,
+   "containersInRow": 3,
+   "numberOfContainers": 26
+ },
+ {
+   "levelNumber": 172,
+   "containersInRow": 9,
+   "numberOfContainers": 21
+ },
+ {
+   "levelNumber": 173,
+   "containersInRow": 8,
+   "numberOfContainers": 22
+ },
+ {
+   "levelNumber": 174,
+   "containersInRow": 7,
+   "numberOfContainers": 23
+ },
+ {
+   "levelNumber": 175,
+   "containersInRow": 6,
+   "numberOfContainers": 24
+ },
+ {
+   "levelNumber": 176,
+   "containersInRow": 5,
+   "numberOfContainers": 25
+ },
+ {
+   "levelNumber": 177,
+   "containersInRow": 4,
+   "numberOfContainers": 26
+ },
+ {
+   "levelNumber": 178,
+   "containersInRow": 3,
+   "numberOfContainers": 27
+ },
+ {
+   "levelNumber": 179,
+   "containersInRow": 9,
+   "numberOfContainers": 22
+ },
+ {
+   "levelNumber": 180,
+   "containersInRow": 8,
+   "numberOfContainers": 23
+ },
+ {
+   "levelNumber": 181,
+   "containersInRow": 7,
+   "numberOfContainers": 24
+ },
+ {
+   "levelNumber": 182,
+   "containersInRow": 6,
+   "numberOfContainers": 25
+ },
+ {
+   "levelNumber": 183,
+   "containersInRow": 5,
+   "numberOfContainers": 26
+ },
+ {
+   "levelNumber": 184,
+   "containersInRow": 4,
+   "numberOfContainers": 27
+ },
+ {
+   "levelNumber": 185,
+   "containersInRow": 9,
+   "numberOfContainers": 23
+ },
+ {
+   "levelNumber": 186,
+   "containersInRow": 8,
+   "numberOfContainers": 24
+ },
+ {
+   "levelNumber": 187,
+   "containersInRow": 7,
+   "numberOfContainers": 25
+ },
+ {
+   "levelNumber": 188,
+   "containersInRow": 6,
+   "numberOfContainers": 26
+ },
+ {
+   "levelNumber": 189,
+   "containersInRow": 5,
+   "numberOfContainers": 27
+ },
+ {
+   "levelNumber": 190,
+   "containersInRow": 4,
+   "numberOfContainers": 28
+ },
+ {
+   "levelNumber": 191,
+   "containersInRow": 9,
+   "numberOfContainers": 24
+ },
+ {
+   "levelNumber": 192,
+   "containersInRow": 8,
+   "numberOfContainers": 25
+ },
+ {
+   "levelNumber": 193,
+   "containersInRow": 7,
+   "numberOfContainers": 26
+ },
+ {
+   "levelNumber": 194,
+   "containersInRow": 6,
+   "numberOfContainers": 27
+ },
+ {
+   "levelNumber": 195,
+   "containersInRow": 5,
+   "numberOfContainers": 28
+ },
+ {
+   "levelNumber": 196,
+   "containersInRow": 4,
+   "numberOfContainers": 29
+ },
+ {
+   "levelNumber": 197,
+   "containersInRow": 9,
+   "numberOfContainers": 25
+ },
+ {
+   "levelNumber": 198,
+   "containersInRow": 8,
+   "numberOfContainers": 26
+ },
+ {
+   "levelNumber": 199,
+   "containersInRow": 7,
+   "numberOfContainers": 27
+ },
+ {
+   "levelNumber": 200,
+   "containersInRow": 6,
+   "numberOfContainers": 28
+ },
+ {
+   "levelNumber": 201,
+   "containersInRow": 5,
+   "numberOfContainers": 29
+ },
+ {
+   "levelNumber": 202,
+   "containersInRow": 4,
+   "numberOfContainers": 30
+ },
+ {
+   "levelNumber": 203,
+   "containersInRow": 9,
+   "numberOfContainers": 26
+ },
+ {
+   "levelNumber": 204,
+   "containersInRow": 8,
+   "numberOfContainers": 27
+ },
+ {
+   "levelNumber": 205,
+   "containersInRow": 7,
+   "numberOfContainers": 28
+ },
+ {
+   "levelNumber": 206,
+   "containersInRow": 6,
+   "numberOfContainers": 29
+ },
+ {
+   "levelNumber": 207,
+   "containersInRow": 5,
+   "numberOfContainers": 30
+ },
+ {
+   "levelNumber": 208,
+   "containersInRow": 4,
+   "numberOfContainers": 31
+ },
+ {
+   "levelNumber": 209,
+   "containersInRow": 9,
+   "numberOfContainers": 27
+ },
+ {
+   "levelNumber": 210,
+   "containersInRow": 8,
+   "numberOfContainers": 28
+ },
+ {
+   "levelNumber": 211,
+   "containersInRow": 7,
+   "numberOfContainers": 29
+ },
+ {
+   "levelNumber": 212,
+   "containersInRow": 6,
+   "numberOfContainers": 30
+ },
+ {
+   "levelNumber": 213,
+   "containersInRow": 5,
+   "numberOfContainers": 31
+ },
+ {
+   "levelNumber": 214,
+   "containersInRow": 4,
+   "numberOfContainers": 32
+ },
+ {
+   "levelNumber": 215,
+   "containersInRow": 9,
+   "numberOfContainers": 28
+ },
+ {
+   "levelNumber": 216,
+   "containersInRow": 8,
+   "numberOfContainers": 29
+ },
+ {
+   "levelNumber": 217,
+   "containersInRow": 7,
+   "numberOfContainers": 30
+ },
+ {
+   "levelNumber": 218,
+   "containersInRow": 6,
+   "numberOfContainers": 31
+ },
+ {
+   "levelNumber": 219,
+   "containersInRow": 5,
+   "numberOfContainers": 32
+ },
+ {
+   "levelNumber": 220,
+   "containersInRow": 4,
+   "numberOfContainers": 33
+ },
+ {
+   "levelNumber": 221,
+   "containersInRow": 9,
+   "numberOfContainers": 29
+ },
+ {
+   "levelNumber": 222,
+   "containersInRow": 8,
+   "numberOfContainers": 30
+ },
+ {
+   "levelNumber": 223,
+   "containersInRow": 7,
+   "numberOfContainers": 31
+ },
+ {
+   "levelNumber": 224,
+   "containersInRow": 6,
+   "numberOfContainers": 32
+ },
+ {
+   "levelNumber": 225,
+   "containersInRow": 5,
+   "numberOfContainers": 33
+ },
+ {
+   "levelNumber": 226,
+   "containersInRow": 4,
+   "numberOfContainers": 34
+ },
+ {
+   "levelNumber": 227,
+   "containersInRow": 9,
+   "numberOfContainers": 30
+ },
+ {
+   "levelNumber": 228,
+   "containersInRow": 8,
+   "numberOfContainers": 31
+ },
+ {
+   "levelNumber": 229,
+   "containersInRow": 7,
+   "numberOfContainers": 32
+ },
+ {
+   "levelNumber": 230,
+   "containersInRow": 6,
+   "numberOfContainers": 33
+ },
+ {
+   "levelNumber": 231,
+   "containersInRow": 5,
+   "numberOfContainers": 34
+ },
+ {
+   "levelNumber": 232,
+   "containersInRow": 4,
+   "numberOfContainers": 35
+ },
+ {
+   "levelNumber": 233,
+   "containersInRow": 9,
+   "numberOfContainers": 31
+ },
+ {
+   "levelNumber": 234,
+   "containersInRow": 8,
+   "numberOfContainers": 32
+ },
+ {
+   "levelNumber": 235,
+   "containersInRow": 7,
+   "numberOfContainers": 33
+ },
+ {
+   "levelNumber": 236,
+   "containersInRow": 6,
+   "numberOfContainers": 34
+ },
+ {
+   "levelNumber": 237,
+   "containersInRow": 5,
+   "numberOfContainers": 35
+ },
+ {
+   "levelNumber": 238,
+   "containersInRow": 4,
+   "numberOfContainers": 36
+ },
+ {
+   "levelNumber": 239,
+   "containersInRow": 9,
+   "numberOfContainers": 32
+ },
+ {
+   "levelNumber": 240,
+   "containersInRow": 8,
+   "numberOfContainers": 33
+ },
+ {
+   "levelNumber": 241,
+   "containersInRow": 7,
+   "numberOfContainers": 34
+ },
+ {
+   "levelNumber": 242,
+   "containersInRow": 6,
+   "numberOfContainers": 35
+ },
+ {
+   "levelNumber": 243,
+   "containersInRow": 5,
+   "numberOfContainers": 36
+ },
+ {
+   "levelNumber": 244,
+   "containersInRow": 9,
+   "numberOfContainers": 33
+ },
+ {
+   "levelNumber": 245,
+   "containersInRow": 8,
+   "numberOfContainers": 34
+ },
+ {
+   "levelNumber": 246,
+   "containersInRow": 7,
+   "numberOfContainers": 35
+ },
+ {
+   "levelNumber": 247,
+   "containersInRow": 6,
+   "numberOfContainers": 36
+ },
+ {
+   "levelNumber": 248,
+   "containersInRow": 5,
+   "numberOfContainers": 37
+ },
+ {
+   "levelNumber": 249,
+   "containersInRow": 9,
+   "numberOfContainers": 34
+ },
+ {
+   "levelNumber": 250,
+   "containersInRow": 8,
+   "numberOfContainers": 35
+ },
+ {
+   "levelNumber": 251,
+   "containersInRow": 7,
+   "numberOfContainers": 36
+ },
+ {
+   "levelNumber": 252,
+   "containersInRow": 6,
+   "numberOfContainers": 37
+ },
+ {
+   "levelNumber": 253,
+   "containersInRow": 5,
+   "numberOfContainers": 38
+ },
+ {
+   "levelNumber": 254,
+   "containersInRow": 9,
+   "numberOfContainers": 35
+ },
+ {
+   "levelNumber": 255,
+   "containersInRow": 8,
+   "numberOfContainers": 36
+ },
+ {
+   "levelNumber": 256,
+   "containersInRow": 7,
+   "numberOfContainers": 37
+ },
+ {
+   "levelNumber": 257,
+   "containersInRow": 6,
+   "numberOfContainers": 38
+ },
+ {
+   "levelNumber": 258,
+   "containersInRow": 5,
+   "numberOfContainers": 39
+ },
+ {
+   "levelNumber": 259,
+   "containersInRow": 9,
+   "numberOfContainers": 36
+ },
+ {
+   "levelNumber": 260,
+   "containersInRow": 8,
+   "numberOfContainers": 37
+ },
+ {
+   "levelNumber": 261,
+   "containersInRow": 7,
+   "numberOfContainers": 38
+ },
+ {
+   "levelNumber": 262,
+   "containersInRow": 6,
+   "numberOfContainers": 39
+ },
+ {
+   "levelNumber": 263,
+   "containersInRow": 5,
+   "numberOfContainers": 40
+ },
+ {
+   "levelNumber": 264,
+   "containersInRow": 9,
+   "numberOfContainers": 37
+ },
+ {
+   "levelNumber": 265,
+   "containersInRow": 8,
+   "numberOfContainers": 38
+ },
+ {
+   "levelNumber": 266,
+   "containersInRow": 7,
+   "numberOfContainers": 39
+ },
+ {
+   "levelNumber": 267,
+   "containersInRow": 6,
+   "numberOfContainers": 40
+ },
+ {
+   "levelNumber": 268,
+   "containersInRow": 5,
+   "numberOfContainers": 41
+ },
+ {
+   "levelNumber": 269,
+   "containersInRow": 9,
+   "numberOfContainers": 38
+ },
+ {
+   "levelNumber": 270,
+   "containersInRow": 8,
+   "numberOfContainers": 39
+ },
+ {
+   "levelNumber": 271,
+   "containersInRow": 7,
+   "numberOfContainers": 40
+ },
+ {
+   "levelNumber": 272,
+   "containersInRow": 6,
+   "numberOfContainers": 41
+ },
+ {
+   "levelNumber": 273,
+   "containersInRow": 5,
+   "numberOfContainers": 42
+ },
+ {
+   "levelNumber": 274,
+   "containersInRow": 9,
+   "numberOfContainers": 39
+ },
+ {
+   "levelNumber": 275,
+   "containersInRow": 8,
+   "numberOfContainers": 40
+ },
+ {
+   "levelNumber": 276,
+   "containersInRow": 7,
+   "numberOfContainers": 41
+ },
+ {
+   "levelNumber": 277,
+   "containersInRow": 6,
+   "numberOfContainers": 42
+ },
+ {
+   "levelNumber": 278,
+   "containersInRow": 5,
+   "numberOfContainers": 43
+ },
+ {
+   "levelNumber": 279,
+   "containersInRow": 9,
+   "numberOfContainers": 40
+ },
+ {
+   "levelNumber": 280,
+   "containersInRow": 8,
+   "numberOfContainers": 41
+ },
+ {
+   "levelNumber": 281,
+   "containersInRow": 7,
+   "numberOfContainers": 42
+ },
+ {
+   "levelNumber": 282,
+   "containersInRow": 6,
+   "numberOfContainers": 43
+ },
+ {
+   "levelNumber": 283,
+   "containersInRow": 5,
+   "numberOfContainers": 44
+ },
+ {
+   "levelNumber": 284,
+   "containersInRow": 9,
+   "numberOfContainers": 41
+ },
+ {
+   "levelNumber": 285,
+   "containersInRow": 8,
+   "numberOfContainers": 42
+ },
+ {
+   "levelNumber": 286,
+   "containersInRow": 7,
+   "numberOfContainers": 43
+ },
+ {
+   "levelNumber": 287,
+   "containersInRow": 6,
+   "numberOfContainers": 44
+ },
+ {
+   "levelNumber": 288,
+   "containersInRow": 5,
+   "numberOfContainers": 45
+ },
+ {
+   "levelNumber": 289,
+   "containersInRow": 9,
+   "numberOfContainers": 42
+ },
+ {
+   "levelNumber": 290,
+   "containersInRow": 8,
+   "numberOfContainers": 43
+ },
+ {
+   "levelNumber": 291,
+   "containersInRow": 7,
+   "numberOfContainers": 44
+ },
+ {
+   "levelNumber": 292,
+   "containersInRow": 6,
+   "numberOfContainers": 45
+ },
+ {
+   "levelNumber": 293,
+   "containersInRow": 9,
+   "numberOfContainers": 43
+ },
+ {
+   "levelNumber": 294,
+   "containersInRow": 8,
+   "numberOfContainers": 44
+ },
+ {
+   "levelNumber": 295,
+   "containersInRow": 7,
+   "numberOfContainers": 45
+ },
+ {
+   "levelNumber": 296,
+   "containersInRow": 6,
+   "numberOfContainers": 46
+ },
+ {
+   "levelNumber": 297,
+   "containersInRow": 9,
+   "numberOfContainers": 44
+ },
+ {
+   "levelNumber": 298,
+   "containersInRow": 8,
+   "numberOfContainers": 45
+ },
+ {
+   "levelNumber": 299,
+   "containersInRow": 7,
+   "numberOfContainers": 46
+ },
+ {
+   "levelNumber": 300,
+   "containersInRow": 6,
+   "numberOfContainers": 47
+ },
+ {
+   "levelNumber": 301,
+   "containersInRow": 9,
+   "numberOfContainers": 45
+ },
+ {
+   "levelNumber": 302,
+   "containersInRow": 8,
+   "numberOfContainers": 46
+ },
+ {
+   "levelNumber": 303,
+   "containersInRow": 7,
+   "numberOfContainers": 47
+ },
+ {
+   "levelNumber": 304,
+   "containersInRow": 6,
+   "numberOfContainers": 48
+ },
+ {
+   "levelNumber": 305,
+   "containersInRow": 9,
+   "numberOfContainers": 46
+ },
+ {
+   "levelNumber": 306,
+   "containersInRow": 8,
+   "numberOfContainers": 47
+ },
+ {
+   "levelNumber": 307,
+   "containersInRow": 7,
+   "numberOfContainers": 48
+ },
+ {
+   "levelNumber": 308,
+   "containersInRow": 6,
+   "numberOfContainers": 49
+ },
+ {
+   "levelNumber": 309,
+   "containersInRow": 9,
+   "numberOfContainers": 47
+ },
+ {
+   "levelNumber": 310,
+   "containersInRow": 8,
+   "numberOfContainers": 48
+ },
+ {
+   "levelNumber": 311,
+   "containersInRow": 7,
+   "numberOfContainers": 49
+ },
+ {
+   "levelNumber": 312,
+   "containersInRow": 6,
+   "numberOfContainers": 50
+ },
+ {
+   "levelNumber": 313,
+   "containersInRow": 9,
+   "numberOfContainers": 48
+ },
+ {
+   "levelNumber": 314,
+   "containersInRow": 8,
+   "numberOfContainers": 49
+ },
+ {
+   "levelNumber": 315,
+   "containersInRow": 7,
+   "numberOfContainers": 50
+ },
+ {
+   "levelNumber": 316,
+   "containersInRow": 6,
+   "numberOfContainers": 51
+ },
+ {
+   "levelNumber": 317,
+   "containersInRow": 9,
+   "numberOfContainers": 49
+ },
+ {
+   "levelNumber": 318,
+   "containersInRow": 8,
+   "numberOfContainers": 50
+ },
+ {
+   "levelNumber": 319,
+   "containersInRow": 7,
+   "numberOfContainers": 51
+ },
+ {
+   "levelNumber": 320,
+   "containersInRow": 6,
+   "numberOfContainers": 52
+ },
+ {
+   "levelNumber": 321,
+   "containersInRow": 9,
+   "numberOfContainers": 50
+ },
+ {
+   "levelNumber": 322,
+   "containersInRow": 8,
+   "numberOfContainers": 51
+ },
+ {
+   "levelNumber": 323,
+   "containersInRow": 7,
+   "numberOfContainers": 52
+ },
+ {
+   "levelNumber": 324,
+   "containersInRow": 6,
+   "numberOfContainers": 53
+ },
+ {
+   "levelNumber": 325,
+   "containersInRow": 9,
+   "numberOfContainers": 51
+ },
+ {
+   "levelNumber": 326,
+   "containersInRow": 8,
+   "numberOfContainers": 52
+ },
+ {
+   "levelNumber": 327,
+   "containersInRow": 7,
+   "numberOfContainers": 53
+ },
+ {
+   "levelNumber": 328,
+   "containersInRow": 6,
+   "numberOfContainers": 54
+ },
+ {
+   "levelNumber": 329,
+   "containersInRow": 9,
+   "numberOfContainers": 52
+ },
+ {
+   "levelNumber": 330,
+   "containersInRow": 8,
+   "numberOfContainers": 53
+ },
+ {
+   "levelNumber": 331,
+   "containersInRow": 7,
+   "numberOfContainers": 54
+ },
+ {
+   "levelNumber": 332,
+   "containersInRow": 9,
+   "numberOfContainers": 53
+ },
+ {
+   "levelNumber": 333,
+   "containersInRow": 8,
+   "numberOfContainers": 54
+ },
+ {
+   "levelNumber": 334,
+   "containersInRow": 7,
+   "numberOfContainers": 55
+ },
+ {
+   "levelNumber": 335,
+   "containersInRow": 9,
+   "numberOfContainers": 54
+ },
+ {
+   "levelNumber": 336,
+   "containersInRow": 8,
+   "numberOfContainers": 55
+ },
+ {
+   "levelNumber": 337,
+   "containersInRow": 7,
+   "numberOfContainers": 56
+ },
+ {
+   "levelNumber": 338,
+   "containersInRow": 9,
+   "numberOfContainers": 55
+ },
+ {
+   "levelNumber": 339,
+   "containersInRow": 8,
+   "numberOfContainers": 56
+ },
+ {
+   "levelNumber": 340,
+   "containersInRow": 7,
+   "numberOfContainers": 57
+ },
+ {
+   "levelNumber": 341,
+   "containersInRow": 9,
+   "numberOfContainers": 56
+ },
+ {
+   "levelNumber": 342,
+   "containersInRow": 8,
+   "numberOfContainers": 57
+ },
+ {
+   "levelNumber": 343,
+   "containersInRow": 7,
+   "numberOfContainers": 58
+ },
+ {
+   "levelNumber": 344,
+   "containersInRow": 9,
+   "numberOfContainers": 57
+ },
+ {
+   "levelNumber": 345,
+   "containersInRow": 8,
+   "numberOfContainers": 58
+ },
+ {
+   "levelNumber": 346,
+   "containersInRow": 7,
+   "numberOfContainers": 59
+ },
+ {
+   "levelNumber": 347,
+   "containersInRow": 9,
+   "numberOfContainers": 58
+ },
+ {
+   "levelNumber": 348,
+   "containersInRow": 8,
+   "numberOfContainers": 59
+ },
+ {
+   "levelNumber": 349,
+   "containersInRow": 7,
+   "numberOfContainers": 60
+ },
+ {
+   "levelNumber": 350,
+   "containersInRow": 9,
+   "numberOfContainers": 59
+ },
+ {
+   "levelNumber": 351,
+   "containersInRow": 8,
+   "numberOfContainers": 60
+ },
+ {
+   "levelNumber": 352,
+   "containersInRow": 7,
+   "numberOfContainers": 61
+ },
+ {
+   "levelNumber": 353,
+   "containersInRow": 9,
+   "numberOfContainers": 60
+ },
+ {
+   "levelNumber": 354,
+   "containersInRow": 8,
+   "numberOfContainers": 61
+ },
+ {
+   "levelNumber": 355,
+   "containersInRow": 7,
+   "numberOfContainers": 62
+ },
+ {
+   "levelNumber": 356,
+   "containersInRow": 9,
+   "numberOfContainers": 61
+ },
+ {
+   "levelNumber": 357,
+   "containersInRow": 8,
+   "numberOfContainers": 62
+ },
+ {
+   "levelNumber": 358,
+   "containersInRow": 7,
+   "numberOfContainers": 63
+ },
+ {
+   "levelNumber": 359,
+   "containersInRow": 9,
+   "numberOfContainers": 62
+ },
+ {
+   "levelNumber": 360,
+   "containersInRow": 8,
+   "numberOfContainers": 63
+ },
+ {
+   "levelNumber": 361,
+   "containersInRow": 9,
+   "numberOfContainers": 63
+ },
+ {
+   "levelNumber": 362,
+   "containersInRow": 8,
+   "numberOfContainers": 64
+ },
+ {
+   "levelNumber": 363,
+   "containersInRow": 9,
+   "numberOfContainers": 64
+ },
+ {
+   "levelNumber": 364,
+   "containersInRow": 8,
+   "numberOfContainers": 65
+ },
+ {
+   "levelNumber": 365,
+   "containersInRow": 9,
+   "numberOfContainers": 65
+ },
+ {
+   "levelNumber": 366,
+   "containersInRow": 8,
+   "numberOfContainers": 66
+ },
+ {
+   "levelNumber": 367,
+   "containersInRow": 9,
+   "numberOfContainers": 66
+ },
+ {
+   "levelNumber": 368,
+   "containersInRow": 8,
+   "numberOfContainers": 67
+ },
+ {
+   "levelNumber": 369,
+   "containersInRow": 9,
+   "numberOfContainers": 67
+ },
+ {
+   "levelNumber": 370,
+   "containersInRow": 8,
+   "numberOfContainers": 68
+ },
+ {
+   "levelNumber": 371,
+   "containersInRow": 9,
+   "numberOfContainers": 68
+ },
+ {
+   "levelNumber": 372,
+   "containersInRow": 8,
+   "numberOfContainers": 69
+ },
+ {
+   "levelNumber": 373,
+   "containersInRow": 9,
+   "numberOfContainers": 69
+ },
+ {
+   "levelNumber": 374,
+   "containersInRow": 8,
+   "numberOfContainers": 70
+ },
+ {
+   "levelNumber": 375,
+   "containersInRow": 9,
+   "numberOfContainers": 70
+ },
+ {
+   "levelNumber": 376,
+   "containersInRow": 8,
+   "numberOfContainers": 71
+ },
+ {
+   "levelNumber": 377,
+   "containersInRow": 9,
+   "numberOfContainers": 71
+ },
+ {
+   "levelNumber": 378,
+   "containersInRow": 8,
+   "numberOfContainers": 72
+ },
+ {
+   "levelNumber": 379,
+   "containersInRow": 9,
+   "numberOfContainers": 72
+ },
+ {
+   "levelNumber": 380,
+   "containersInRow": 9,
+   "numberOfContainers": 73
+ },
+ {
+   "levelNumber": 381,
+   "containersInRow": 9,
+   "numberOfContainers": 74
+ },
+ {
+   "levelNumber": 382,
+   "containersInRow": 9,
+   "numberOfContainers": 75
+ },
+ {
+   "levelNumber": 383,
+   "containersInRow": 9,
+   "numberOfContainers": 76
+ },
+ {
+   "levelNumber": 384,
+   "containersInRow": 9,
+   "numberOfContainers": 77
+ },
+ {
+   "levelNumber": 385,
+   "containersInRow": 9,
+   "numberOfContainers": 78
+ },
+ {
+   "levelNumber": 386,
+   "containersInRow": 9,
+   "numberOfContainers": 79
+ },
+ {
+   "levelNumber": 387,
+   "containersInRow": 9,
+   "numberOfContainers": 80
+ },
+ {
+   "levelNumber": 388,
+   "containersInRow": 9,
+   "numberOfContainers": 81
+ }
+]
